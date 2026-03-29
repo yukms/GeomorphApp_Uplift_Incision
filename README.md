@@ -11,6 +11,8 @@ pinned: false
 
 # GeomorphApp: Uplift and Incision
 
+🚀 **Live Interactive Demo:** [Hugging Face Space](https://huggingface.co/spaces/minsikkim/Geomorphapp_Uplift_Incision)
+
 A brief educational model demonstrating geomorphology concepts such as uplift and incision.
 
-How can we make a step shape at the end?
+How can I make a step shape at the end?
